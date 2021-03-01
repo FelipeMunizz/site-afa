@@ -1,0 +1,73 @@
+
+.navbar{
+    padding: 3px;
+    overflow:  hidden;
+    position: fixed;
+    top: 0px;
+    background-color: rgb(255, 255, 255);
+    margin-bottom: 1px;
+}
+
+.margin{
+    padding: 50px;
+}
+
+#index{
+    display: flex;
+    padding: 50px;
+    margin-top: 40px;
+    background-color: rgb(250, 250, 250);
+}
+
+#quem-somos{
+    display: flex;
+    padding: 50px;
+    background-color: rgb(250, 250, 250);
+}
+
+.titulo{
+    padding: 30px;
+}
+
+picture{
+    display: flex;
+    padding: 50px;
+    margin-top: 100px;
+}
+
+.texto{
+    display: flex;
+    align-items: flex-start;
+}
+
+#servicos{
+    display: flex;
+    padding: 50px;
+    background-color: rgb(250, 250, 250);
+}
+
+.text-sm-start{
+    font-size: 12px;
+}
+
+.col-lg-4{
+    padding: 50px;    
+}
+
+#clientes{
+    background-color: rgb(250, 250, 250);
+}
+
+.edit-footer{
+    padding: 5px;
+    background-color: rgb(53, 53, 53);
+    color: white;
+    text-align: right;
+}
+
+.formulario{
+    display: flex;
+    padding: 50px;
+    margin-top: 40px;
+    background-color: rgb(250, 250, 250);
+}
